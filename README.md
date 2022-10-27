@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: 司马老贼
+ * @Date: 2022-10-27 10:25:51
+ * @LastEditTime: 2022-10-27 12:52:06
+ * @LastEditors: 司马老贼
+-->
 <p align="center">
     <img alt="logo" src="https://opens-1308879050.cos.ap-beijing.myqcloud.com/vvm/logo.png" width="120" height="120" style="margin-bottom: 10px;">
 </p>
@@ -44,28 +51,24 @@ git clone https://github.com/CharleeWa/vue3-vant-mobile.git
 ```bash
 cd vue3-vant-mobile
 
-# with yarn
-yarn install
+# with pnpm
+pnpm install
 
 ```
 
 - run
 
 ```bash
-yarn dev
+pnpm dev
 ```
 
 - build
 
 ```bash
-yarn build
+pnpm build
 ```
 
-## Preview
 
-You can scan the following QR code to access the demo：
-
-<img src="https://opens-1308879050.cos.ap-beijing.myqcloud.com/vvm/preview-qrcode.png" width="220" height="220" >
 
 ## Browser Support
 
@@ -75,9 +78,10 @@ Support modern browsers and Chrome >= 51、iOS >= 10.0 (same as Vue 3)
 | :-: | :-: | :-: | :-: | :-: |
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## Maintainer
 
-[@CharleeWa](https://github.com/CharleeWa)
+## Commitizen friendly
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 
 ## LICENSE
 
