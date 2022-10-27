@@ -2,14 +2,14 @@
  * @Description: 
  * @Author: 司马老贼
  * @Date: 2022-10-27 10:25:51
- * @LastEditTime: 2022-10-27 12:52:06
+ * @LastEditTime: 2022-10-27 13:02:33
  * @LastEditors: 司马老贼
 -->
 <p align="center">
     <img alt="logo" src="https://opens-1308879050.cos.ap-beijing.myqcloud.com/vvm/logo.png" width="120" height="120" style="margin-bottom: 10px;">
 </p>
 
-<h1 align="center">Vue3-Vant-Mobile</h1>
+<h1 align="center">mall-template</h1>
 
 <p align="center">Mobile Template built on Vue3、Vite3、Vant4、Pinia2、TypeScript </p>
 
