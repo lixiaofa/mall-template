@@ -1,0 +1,32 @@
+
+
+body{
+    height: 100vh;
+    --van-primary-color: var(--van-darkcyan) !important;
+  
+    background: var(--van-gray-1);
+}
+.page{
+
+    padding: 20px 0px  80px 0px;
+    
+}
+ 
+
+.flex-container{
+    display: -webkit-flex;
+    display: flex;
+}
+.align-items-center{
+    -webkit-align-items: center ;
+    align-items:center ;
+}
+.justify-content-space-between{
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+.justify-content-center{
+    -webkit-justify-content: center ;
+    justify-content: center ;
+}
+
