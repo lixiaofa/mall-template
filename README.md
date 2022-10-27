@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: 司马老贼
  * @Date: 2022-10-27 10:25:51
- * @LastEditTime: 2022-10-27 13:02:33
+ * @LastEditTime: 2022-10-27 16:31:59
  * @LastEditors: 司马老贼
 -->
 <p align="center">
@@ -86,3 +86,6 @@ Support modern browsers and Chrome >= 51、iOS >= 10.0 (same as Vue 3)
 ## LICENSE
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+
+## Contributors
